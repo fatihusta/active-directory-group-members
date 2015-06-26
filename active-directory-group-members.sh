@@ -1,7 +1,7 @@
 #!/bin/bash
-#List Active directory Group members
+#Listing Active directory Group members
 #@author Fatih USTA
-#@date 2013/11/10
+#@date 2015/06/26
 
 
 adUsername="administrator"
